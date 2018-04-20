@@ -1,0 +1,56 @@
+ h1 {
+	font-family: 'Courgette', cursive;
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 26.4px;
+	text-align: center;
+	color:#03A9F4;
+}
+
+
+
+p {
+	color: grey;
+	font-size: 40;
+	text-align: center;
+}
+
+
+#banner {
+
+	text-align: center;
+	padding: 70;
+	margin: 100;
+	background-color: white; 
+}
+
+
+#logo {
+ 	border: 2px solid grey;
+}
+
+
+.socialmedia:hover {
+	Color : blue ;
+}
+
+
+.socialmedia {
+  	font-size: 50px ;
+}
+
+
+#footer {
+  	text-align: center;
+  	background-color: #56BCD9;
+}
+ 
+
+.align {
+    display: inline-block;
+}
+body {
+	text-align: center;
+}
